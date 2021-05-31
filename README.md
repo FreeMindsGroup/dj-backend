@@ -6,9 +6,11 @@ This Django starter pack template inspired by [Cookiecutter Django-Vue](https://
 
 - [ ] TODO: describe all futures (12 app, poetry, poe, graphql).
 
-## Install
+## Step by step to use
 
-- [ ] TODO: How to install?
+- Clone repository `git clone https://github.com/FreeMindsGroup/dj-backend.git`.
+- Install dependencies and create a virtual environment by `poetry install` from **pyptoject.toml**.
+- Fill **.env** variables by creating a file in the Django root directory.
 
 ## Commands
 
